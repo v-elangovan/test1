@@ -1,3 +1,7 @@
-hi da noob
+hi
 mugilan
+<<<<<<< Updated upstream
 hi hit man
+=======
+noob
+>>>>>>> Stashed changes
