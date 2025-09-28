@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hi
 mugilan
 <<<<<<< Updated upstream
@@ -5,3 +6,6 @@ hi hit man
 =======
 noob
 >>>>>>> Stashed changes
+=======
+hi 
+>>>>>>> 2b88beb6a0c13356294042509c32ff329191af5b
